@@ -1,12 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working as an Associate Software Engineer<br>🌱 I’m currently learning ROR<br>💬 Ask me about React Native, ROR
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asadtariq18) 
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=asadtariq18&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=asadtariq18&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=asadtariq18&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asadtariq18&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -23,4 +19,7 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asadtariq18) 
+
 [![](https://visitcount.itsvg.in/api?id=asadtariq18&icon=8&color=0)](https://visitcount.itsvg.in)
